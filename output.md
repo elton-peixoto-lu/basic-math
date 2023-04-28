@@ -1,4 +1,4 @@
-Tabua do 1 ao 10 em clojure
+Tabuada do 1 ao 10 em clojure
 -
 [1] x [1] = 1
 
