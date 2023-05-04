@@ -9,4 +9,4 @@
 (doseq [i (range 1 11)]
   (println "-")
   (println "Tabuada do" [i])
-  (println (tabuada i)))
+  (tabuada i))
