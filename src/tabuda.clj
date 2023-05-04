@@ -8,4 +8,5 @@
 "faz com que tabuada interaja ate 10"
 (doseq [i (range 1 11)]
   (println "-")
+  (println "Tabuada do" [i])
   (tabuada i))
